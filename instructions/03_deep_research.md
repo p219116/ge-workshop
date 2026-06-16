@@ -52,4 +52,4 @@
 ---
 
 ## 🔗 다음 실습으로 이동
-* [실습 라. NotebookLM 활용 바로가기](./04_notebooklm.md)
+* [실습 가. Excel 분석 & PPT 아웃라인 바로가기](./01_excel_analysis.md)
