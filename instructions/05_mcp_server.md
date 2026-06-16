@@ -157,4 +157,4 @@ Cafeteria MCP를 사용하는 Low Code Agent를 만들어 보겠습니다.
 ---
 
 ## 🔗 다음 실습으로 이동
-* [실습 바. Chrome Integration 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/06_chrome_integration.md)
+* [실습 바. Chrome Integration 바로가기](./06_chrome_integration.md)

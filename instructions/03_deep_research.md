@@ -37,4 +37,4 @@
 ---
 
 ## 🔗 다음 실습으로 이동
-* [실습 라. NotebookLM 활용 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/04_notebooklm.md)
+* [실습 라. NotebookLM 활용 바로가기](./04_notebooklm.md)

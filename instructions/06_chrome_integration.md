@@ -19,30 +19,29 @@
 
 ---
 
-### 2단계: 주소창(Omnibar) 검색어 연동 활성화
-1. Chrome 브라우저 주소창에 `gemini`를 입력합니다.
-2. 이어서 키보드의 **Tab** 키 또는 **Space bar**를 누릅니다.
+### 2단계: 크롬 사이트 검색(Site search) 설정 추가
+1. Chrome 브라우저를 열고 주소창에 `chrome://settings/searchEngines`를 입력하여 검색엔진 설정 페이지로 이동합니다.
+2. **사이트 검색(Site search)** 섹션 우측의 **추가(Add)** 버튼을 클릭합니다.
+3. 검색창 추가(Edit site search) 팝업창에 아래 정보를 그대로 입력한 후 **저장(Save)** 버튼을 누릅니다.
+   * **이름 (Name)**: `GE`
+   * **단축키 (Shortcut)**: `ge`
+   * **URL (URL with %s in place of query)**: `https://gemini.hongik.ac.kr/?q=%s`
 
-<img src="../images/chrome01.png" width="600">
-
-3. 주소창의 검색 표시가 **"Gemini에 질문하기"** 혹은 관련 아이콘으로 변경되었는지 확인합니다.
-
-<img src="../images/chrome02.png" width="600">
+<img src="../images/chrome05.png" width="600">
 
 ---
 
-### 3단계: 즉시 질의 수행
-1. 활성화된 주소창에 아래 질문 프롬프트를 입력하고 **Enter**를 누릅니다.
+### 3단계: 주소창(Omnibar)에서 즉시 질의 수행
+1. Chrome 브라우저 주소창에 단축키인 `ge`를 입력한 후, 키보드의 **Tab** 키 또는 **Space bar**를 누릅니다.
+2. 주소창이 **"Search GE"** 상태로 변경되는 것을 확인합니다.
 
-```text
-리눅스에서 특정 포트(예: 8080) 사용 중인 프로세스 찾아서 종료하는 명령어 알려줘
-```
+<img src="../images/chrome06.png" width="600">
 
-<img src="../images/chrome03.png" width="800">
-
-2. 엔터를 누르면 새 창이 열리며, 브라우저가 바로 Gemini Enterprise 대화창으로 진입하여 해당 질문에 대한 상세한 가이드 결과를 즉시 보여줍니다.
-
-<img src="../images/chrome04.png" width="800">
+3. 이어서 바로 질문 프롬프트를 입력하고 **Enter**를 누릅니다.
+   ```text
+   리눅스에서 특정 포트(예: 8080) 사용 중인 프로세스 찾아서 종료하는 명령어 알려줘
+   ```
+4. 엔터를 누르면 홍익대학교 전용 Gemini Enterprise 화면으로 다이렉트 연동되어, 질문에 대한 명쾌한 해답과 가이드를 즉시 얻을 수 있습니다!
 
 ---
 

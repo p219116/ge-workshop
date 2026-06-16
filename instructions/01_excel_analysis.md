@@ -91,4 +91,4 @@
 ---
 
 ## 🔗 다음 실습으로 이동
-* [실습 나. Search Company Data 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/02_search_company_data.md)
+* [실습 나. Search Company Data 바로가기](./02_search_company_data.md)

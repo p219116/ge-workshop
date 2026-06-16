@@ -44,4 +44,4 @@
 ---
 
 ## 🔗 다음 실습으로 이동
-* [실습 다. Deep Research 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/03_deep_research.md)
+* [실습 다. Deep Research 바로가기](./03_deep_research.md)

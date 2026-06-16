@@ -35,12 +35,12 @@ graph TD
 
 | 번호 | 실습 모듈명 | 실습 핵심 내용 | 가이드 링크 |
 |:---:| :--- |:--- |:---:|
-| **01** | **가. Excel 분석 & PPT 아웃라인** | 학생 만족도 서베이 데이터 요약, 그룹별 교차 분석, 감성 분석, 시각화 추천 및 PPT 초안 구성 | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/01_excel_analysis.md) |
-| **02** | **나. Search Company Data** | 학교 공유 드라이브 내부 문서를 안전하게 탐색하여 실무 질문 해결하기 (RAG 기능) | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/02_search_company_data.md) |
-| **03** | **다. Deep Research** | 글로벌 명문 공대의 'AI 융합/로봇 연구' 및 '산학 협력 모델'에 대한 융합 프로젝트 학술 보고서 자동 작성 | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/03_deep_research.md) |
-| **04** | **라. NotebookLM 활용** | 조사한 학술 동향과 본교 교육과정을 대조하여 1~2학년 대상 [AI 융합공학 맛보기 교과목 가이드라인] 설계 | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/04_notebooklm.md) |
-| **05** | **마. MCP 서버 사용** | Cafeteria Menu MCP 및 Google Search를 연동한 실시간 '구내식당 메뉴 알리미' Low-Code 에이전트 설계 | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/05_mcp_server.md) |
-| **06** | **바. Chrome Integration** | Chrome 브라우저 주소창(Omnibar)에 `@gemini`를 입력해 어디서나 즉시 질의하는 빠른 생산성 연동 | [실습 바로가기](file:///Users/changhojung/antigravity-workfolder/hong/instructions/06_chrome_integration.md) |
+| **01** | **가. Excel 분석 & PPT 아웃라인** | 학생 만족도 서베이 데이터 요약, 그룹별 교차 분석, 감성 분석, 시각화 추천 및 PPT 초안 구성 | [실습 바로가기](./instructions/01_excel_analysis.md) |
+| **02** | **나. Search Company Data** | 학교 공유 드라이브 내부 문서를 안전하게 탐색하여 실무 질문 해결하기 (RAG 기능) | [실습 바로가기](./instructions/02_search_company_data.md) |
+| **03** | **다. Deep Research** | 글로벌 명문 공대의 'AI 융합/로봇 연구' 및 '산학 협력 모델'에 대한 융합 프로젝트 학술 보고서 자동 작성 | [실습 바로가기](./instructions/03_deep_research.md) |
+| **04** | **라. NotebookLM 활용** | 조사한 학술 동향과 본교 교육과정을 대조하여 1~2학년 대상 [AI 융합공학 맛보기 교과목 가이드라인] 설계 | [실습 바로가기](./instructions/04_notebooklm.md) |
+| **05** | **마. MCP 서버 사용** | Cafeteria Menu MCP 및 Google Search를 연동한 실시간 '구내식당 메뉴 알리미' Low-Code 에이전트 설계 | [실습 바로가기](./instructions/05_mcp_server.md) |
+| **06** | **바. Chrome Integration** | Chrome 브라우저 주소창(Omnibar)에 'ge' 단축어를 입력해 어디서나 즉시 질의하는 빠른 생산성 연동 | [실습 바로가기](./instructions/06_chrome_integration.md) |
 
 ---
 
