@@ -50,8 +50,5 @@ graph TD
 
 > [!IMPORTANT]
 > **Google Drive 승인 및 연동 필수**
-> 1. 제공된 실습용 **Gemini Enterprise App** URL로 접속합니다.
-> 2. 화면 좌측 하단의 **설정(Settings)** 메뉴로 이동합니다.
-> 3. **맞춤설정(Customization)** 탭에서 **Drive 승인(Authorize)**을 클릭하고, 부여받은 Google 계정으로 OAuth 로그인을 수행합니다.
-> 4. 채팅창 하단의 **커넥터(Connect)** 옵션에서 Google Workspace 사용 설정을 켭니다.
+> 1. **Gemini Enterprise App** URL([https://gemini.hongik.ac.kr](https://gemini.hongik.ac.kr))로 접속합니다.
 
