@@ -11,10 +11,10 @@ Gemini Enterprise는 단순한 대화형 AI를 넘어, 안전하게 보호되는
 
 ```mermaid
 graph TD
-    A[Gemini Enterprise 실습] --> B(다. Deep Research 학제 연구)
+    A[Gemini Enterprise 실습] --> B(다. Deep Research 글로벌 자율전공 학사 지도)
     A --> C(가. Excel 분석 및 PPT 설계)
     A --> D(나. Search Company Data)
-    A --> E(라. NotebookLM 교수법 가이드)
+    A --> E(라. NotebookLM 자율전공 학사 기획)
     A --> F(마. Custom MCP 연결)
     A --> G(바. Chrome 주소창 연동)
     
@@ -35,10 +35,10 @@ graph TD
 
 | 번호 | 실습 모듈명 | 실습 핵심 내용 | 가이드 링크 |
 |:---:| :--- |:--- |:---:|
-| **01** | **다. Deep Research** | 글로벌 명문 공대의 'AI 융합/로봇 연구' 및 '산학 협력 모델'에 대한 융합 프로젝트 학술 보고서 자동 작성 | [실습 바로가기](./instructions/03_deep_research.md) |
+| **01** | **다. Deep Research** | 글로벌 명문 대학의 무전공 및 자율전공 학생들을 위한 전공 탐색 프로그램 및 밀착형 학사 지도(Advising) 우수 사례 심층 조사 | [실습 바로가기](./instructions/03_deep_research.md) |
 | **02** | **가. Excel 분석 & PPT 아웃라인** | 학생 만족도 서베이 데이터 요약, 그룹별 교차 분석, 감성 분석, 시각화 추천 및 PPT 초안 구성 | [실습 바로가기](./instructions/01_excel_analysis.md) |
 | **03** | **나. Search Company Data** | 학교 공유 드라이브 내부 문서를 안전하게 탐색하여 실무 질문 해결하기 (RAG 기능) | [실습 바로가기](./instructions/02_search_company_data.md) |
-| **04** | **라. NotebookLM 활용** | 조사한 학술 동향과 본교 교육과정을 대조하여 1~2학년 대상 [AI 융합공학 맛보기 교과목 가이드라인] 설계 | [실습 바로가기](./instructions/04_notebooklm.md) |
+| **04** | **라. NotebookLM 활용** | 글로벌 벤치마킹 보고서와 본교 자율전공 학사 제도를 융합하여 [홍익대 맞춤형 전공 탐색 가이드북 및 밀착형 학사 지도 프로그램 실행 계획서] 기획 | [실습 바로가기](./instructions/04_notebooklm.md) |
 | **05** | **마. MCP 서버 사용** | Cafeteria Menu MCP 및 Google Search를 연동한 실시간 '구내식당 메뉴 알리미' Low-Code 에이전트 설계 | [실습 바로가기](./instructions/05_mcp_server.md) |
 | **06** | **바. Chrome Integration** | Chrome 브라우저 주소창(Omnibar)에 'ge' 단축어를 입력해 어디서나 즉시 질의하는 빠른 생산성 연동 | [실습 바로가기](./instructions/06_chrome_integration.md) |
 
