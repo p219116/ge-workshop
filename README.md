@@ -35,6 +35,7 @@ graph TD
 
 | 번호 | 실습 모듈명 | 실습 핵심 내용 | 가이드 링크 |
 |:---:| :--- |:--- |:---:|
+| **00** | **📢 워크숍 발표 장표** | 각 실습 단계별 목표, 시나리오, 기대 산출물을 소개하는 프리미엄 발표용 슬라이드 | [장표 바로가기](./instructions/00_workshop_intro_slides.md) |
 | **01** | **다. Deep Research** | 글로벌 명문 공대의 'AI 융합/로봇 연구' 및 '산학 협력 모델'에 대한 융합 프로젝트 학술 보고서 자동 작성 | [실습 바로가기](./instructions/03_deep_research.md) |
 | **02** | **가. Excel 분석 & PPT 아웃라인** | 학생 만족도 서베이 데이터 요약, 그룹별 교차 분석, 감성 분석, 시각화 추천 및 PPT 초안 구성 | [실습 바로가기](./instructions/01_excel_analysis.md) |
 | **03** | **나. Search Company Data** | 학교 공유 드라이브 내부 문서를 안전하게 탐색하여 실무 질문 해결하기 (RAG 기능) | [실습 바로가기](./instructions/02_search_company_data.md) |
